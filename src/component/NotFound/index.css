@@ -1,0 +1,12 @@
+.notFoundContainer {
+  background-color: #000000;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.notFoundContainer img {
+  width: 40%;
+}
